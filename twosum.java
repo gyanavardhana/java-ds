@@ -1,7 +1,7 @@
 import java.util.HashMap;
 /*
  * this is a java program to implement hashmamp and find out the 2 numbers in the array
- * whose sum is equal to the target .
+ * whose sum is equal to the target.
  * the map is similar to the dictionary in python.
  */
 public class twosum {
