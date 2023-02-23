@@ -1,6 +1,6 @@
 /*
  * in this java program we are going to find minimum element using binary search in a sorted and rotated array
- * we are going to use binary search based on the rotated part of the array and sorted part of the array
+ * we are going to use binary search based on the rotated part of the array and sorted part of the array,
  * we are going to implement half part of binary search.
  */
 public class minelesorrot {
