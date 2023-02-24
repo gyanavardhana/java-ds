@@ -1,7 +1,7 @@
 /*
- * in this java program we are going to learn how to eliminate the vowels in the string
+ * in this java program we are going to learn how to eliminate the vowels in the string.
  * and print the remaining characters in the array.
- * for this we are going to charat function which is inbuilt in java
+ * for this we are going to charat function which is inbuilt in java.
  * and returns the character at the index value.
  */
 public class vowel {
