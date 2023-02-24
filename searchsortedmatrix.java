@@ -1,5 +1,5 @@
 /*
- * in this java program we are search an element in sorted matrix
+ * in this java program we are search an element in sorted matrix.
  * usually we are needed two loops to search a matrix with bruteforce method .
  * but in this algorithm we are going to find it by using column wise and row wise which is simlar to binarysearch.
  */
