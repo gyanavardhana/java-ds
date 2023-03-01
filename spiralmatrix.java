@@ -1,5 +1,5 @@
 /*
- * in this java code we are print the matrix elements in teh spiral way.
+ * in this java code we are  going to print the matrix elements in teh spiral way.
  * we will go in a simplified orders by printing wise with borders.
  * the order will be:
  * top border
