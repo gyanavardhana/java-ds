@@ -2,7 +2,7 @@
  * in this program we are going to search the element or target
  * we will search in the sorted and rotated array
  * we are going to do this by finding the partitions of array
- * and performing 2 binarysearches in two partiotions
+ * and performing 2 binarysearches in two partiotions.
  */
 public class searchsortedarrya {
     
