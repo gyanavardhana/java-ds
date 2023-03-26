@@ -1,6 +1,7 @@
 /*
  * in this java program we are going to implement array list 
- * array list is  a dynamic array of objects
+ * array list is  a dynamic array of objects,
+ 
  * it can be used to add,set,get,findindex,remove elements in the list.
  */
 import java.util.*;
